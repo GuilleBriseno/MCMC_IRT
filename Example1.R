@@ -1,5 +1,5 @@
 library(coda)
-
+# hashtag
 trueA <- 5
 trueB <- 0
 trueSd <- 10
